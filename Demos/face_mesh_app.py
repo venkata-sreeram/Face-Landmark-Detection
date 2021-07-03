@@ -1,6 +1,4 @@
-#Modified by Augmented Startups 2021
 #Face Landmark User Interface with StreamLit
-#Watch Computer Vision Tutorials at www.augmentedstartups.info/YouTube
 
 # streamlit run face_mesh_app.py
 
@@ -96,8 +94,8 @@ if app_mode =='About App':
           # About Me \n 
             Hey this is ** Venkata Sreeram ** from **Indian Servers**. \n
            
-            If you are interested in building more Computer Vision apps like this one then visit the **Vision Store** at
-            www.augmentedstartups.info/visionstore \n
+            If you are interested in building more Computer Vision apps like this one then visit the **Projects Profile** at
+            www.venkatasreeram.live/sreeram \n
             
             Also check us out on Social Media
             - [YouTube](https://www.youtube.com/channel/UCTJE6uSKSLG7rYZZzH-h80Q)
